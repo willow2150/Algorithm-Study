@@ -27,24 +27,28 @@
  **Pull Request**
 
  - OnlineJudge_week member
+
    > Ex) Baekjoon_week1 willow2150
 
 
  **Commit Message**
 
  - OnlineJudge_problem member - Add 1st Solution
+
    > Ex) Baekjoon_1182 willow2150 - Add 2nd Solution
 
    - 문제의 n번째 솔루션 코드를 추가 했을 때의 커밋 메시지입니다.
 
 
  - OnlineJudge_problem member - Refactor 2nd Solution
+   
    > Ex) Baekjoon_1182 willow2150 - Refactor 3rd Solution
 
    - 문제의 n번째 솔루션 코드를 리팩토링 했을 때의 커밋 메시지입니다.
 
 
  - OnlineJudge_problem member - Fix 3rd Solution
+   
    > Ex) Baekjoon_1182 willow2150 - Fix 4th Solution
 
    - 문제의 n번째 솔루션 코드의 오류를 수정 했을 때의 커밋 메시지입니다.
@@ -54,41 +58,43 @@
 ## Repository 구조
 
 ```bash
+
 Repository
- |     README.md
- |
-├─ Online Judge1
- |        │
- |        ├─ member1
- |         |         |
- |        │       ├── week1
- |         |         |          ├──problemNumber.java
- |        │       │         ├── ...
- |        │       │
- |        │       ├── week2
- |         |         |          ├──problemNumber.java
- |        │       │         ├── ...
- |        │        |
- |        │       ├── ...
- |        │    
- |        ├─ member2
- |         |         |
- |        │       ├── week1
- |         |         |          ├──problemNumber.java
- |        │       │         ├── ...
- |        │       │
- |        │       ├── week2
- |         |         |          ├──problemNumber.java
- |        │       │         ├── ...
- |        │        |
- |        │       ├── ...
- |        │    
- |        ├─ ...
- |            
-├─ Online Judge2
- |        │
- |        ├─ member1
- |         |         |
+ ├─ README.md
+ │
+ ├─ Online Judge1
+ │        │
+ │        ├─ member1
+ │        │     │
+ │        │     ├── week1
+ │        │     │     ├──problemNumber.java
+ │        │     │     ├── ...
+ │        │     │
+ │        │     ├── week2
+ │        │     │     ├──problemNumber.java
+ │        │     │     ├── ...
+ │        │     │
+ │        │     ├── ...
+ │        │    
+ │        ├─ member2
+ │        │     │
+ │        │     ├── week1
+ │        │     │     ├──problemNumber.java
+ │        │     │     ├── ...
+ │        │     │
+ │        │     ├── week2
+ │        │     │     ├──problemNumber.java
+ │        │     │     ├── ...
+ │        │     │
+ │        │     ├── ...
+ │        │    
+ │        ├─ ...
+ │            
+ ├─ Online Judge2
+ │        │
+ │        ├─ member1
+ │        │     │
+ 
 ``` 
 
 
