@@ -27,7 +27,7 @@
 
  - OnlineJudge_week member
 
-   > Ex) Baekjoon_week1 willow2150
+   > Ex) Baekjoon_week2 willow2150
 
 
  **Commit Message**
@@ -100,6 +100,7 @@ Repository
 
 ## 주차 별 진행표
 
-|주차|기간|문제 1|문제 2|문제 3|문제 4|문제 5|문제 6|문제 7|
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-|1주차|22.08.01~22.08.07|[부분수열의 합](https://www.acmicpc.net/problem/1182)|[이차원 배열과 연산](https://www.acmicpc.net/problem/17140)|[화학식량](https://www.acmicpc.net/problem/2257)|[암호 만들기](https://www.acmicpc.net/problem/1759)|[유레카 이론](https://www.acmicpc.net/problem/10448)|[십자뒤집기](https://www.acmicpc.net/problem/10472)|[클레어와 팰린드롬](https://www.acmicpc.net/problem/17502)|
+|주차|기간|문제 1|문제 2|문제 3|문제 4|문제 5|문제 6|문제 7|번외 1|번외 2|
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|1|22.08.01~22.08.07|[부분수열의 합](https://www.acmicpc.net/problem/1182)|[이차원 배열과 연산](https://www.acmicpc.net/problem/17140)|[화학식량](https://www.acmicpc.net/problem/2257)|[암호 만들기](https://www.acmicpc.net/problem/1759)|[유레카 이론](https://www.acmicpc.net/problem/10448)|[십자뒤집기](https://www.acmicpc.net/problem/10472)|[클레어와 팰린드롬](https://www.acmicpc.net/problem/17502)|||
+|2|22.08.08~22.08.14|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|[트리 순회](https://www.acmicpc.net/problem/1991)|[영역 구하기](https://www.acmicpc.net/problem/2583)|[나이트의 이동](https://www.acmicpc.net/problem/7562)|[절댓값 힙](https://www.acmicpc.net/problem/11286)|[어두운 굴다리](https://www.acmicpc.net/problem/17266)|[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[뱀](https://www.acmicpc.net/problem/3190)|[연료 채우기](https://www.acmicpc.net/problem/1826)|
