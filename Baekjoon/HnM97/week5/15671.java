@@ -44,7 +44,6 @@ public class Main {
 		printMap();
 		if(b_cnt > w_cnt) System.out.println("Black");
 		else System.out.println("White");
-
 	}
 
 /**
@@ -105,7 +104,6 @@ public class Main {
 			}
 			System.out.println();
 		}
-
 	}
 
 	// B -> W, W -> B
@@ -113,5 +111,4 @@ public class Main {
 		if(before=='B')  return 'W';
 		else return 'B';
 	}
-
 }
