@@ -6,7 +6,8 @@ import java.io.InputStreamReader;
 import java.util.ArrayDeque;
 import java.util.Queue;
 
-/* 
+/* 걸린시간 : 30분
+ * 
  * 폭탄 3초 후에 i,j + 상하좌우 파괴 -> 파괴 후 빈칸이 됨
  * 상하좌우에 폭탄이 있으면 그 폭탄은 안터지고 그냥 파괴(연쇄반응 x) 
  * 
