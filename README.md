@@ -27,7 +27,7 @@
 
  - OnlineJudge_week member
 
-   > Ex) Baekjoon_week4 willow2150
+   > Ex) Baekjoon_week7 willow2150
 
 
  **Commit Message**
@@ -108,3 +108,4 @@ Repository
 |4|22.08.22~22.08.28|[전력난](https://www.acmicpc.net/problem/6497)|[해킹](https://www.acmicpc.net/problem/10282)|[파티](https://www.acmicpc.net/problem/1238)|[운동](https://www.acmicpc.net/problem/1956)|[톱니바퀴](https://www.acmicpc.net/problem/14891)|[상어 초등학교](https://www.acmicpc.net/problem/21608)|[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)|
 |5|22.09.01~22.09.04|[오델로](https://www.acmicpc.net/problem/15671)|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|
 |6|22.09.05~22.09.11|[봄버맨](https://www.acmicpc.net/problem/16918)|[단어 만들기](https://www.acmicpc.net/problem/1148)|[빗물](https://www.acmicpc.net/problem/14719)|[0 만들기](https://www.acmicpc.net/problem/7490)|
+|7|22.09.12~22.09.18|[추월](https://www.acmicpc.net/problem/2002)|[음악프로그램](https://www.acmicpc.net/problem/2623)|[순열의 순서](https://www.acmicpc.net/problem/1722)|[스타트 택시](https://www.acmicpc.net/problem/19238)|
