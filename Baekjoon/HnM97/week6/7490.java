@@ -76,7 +76,6 @@ public class Main {
 				cur = i+1;
 			} else {
 				cur  += Math.pow(10, Integer.toString(cur).length()) * (i+1);
-
 			}
 		}
 		// 연산자가 " "만 존재하는 경우
@@ -93,9 +92,6 @@ public class Main {
 				sb.append(i);
 			}
 			ansList.add(sb.toString());
-
 		}
-
 	}
-
 }
