@@ -27,7 +27,7 @@
 
  - OnlineJudge_week member
 
-   > Ex) Baekjoon_week9 willow2150
+   > Ex) Baekjoon_week13 willow2150
 
 
  **Commit Message**
@@ -114,3 +114,4 @@ Repository
 |10|22.10.01~22.10.09|[점프](https://www.acmicpc.net/problem/1890)|[작업](https://www.acmicpc.net/problem/2056)|[사다리 조작](https://www.acmicpc.net/problem/15684)|[치즈](https://www.acmicpc.net/problem/2636)|
 |11|22.10.10~22.10.16|[가스관](https://www.acmicpc.net/problem/2931)|[소문난 칠공주](https://www.acmicpc.net/problem/1941)|[회사 문화 1](https://www.acmicpc.net/problem/14267)|[회전 초밥](https://www.acmicpc.net/problem/2531)|
 |12|22.10.17~22.10.23|[줄세우기](https://www.acmicpc.net/problem/2631)|[우유 도시](https://www.acmicpc.net/problem/14722)|[공주님의 정원](https://www.acmicpc.net/problem/2457)|[탈옥](https://www.acmicpc.net/problem/9376)|
+|13|22.10.24~22.10.31|[틱택토](https://www.acmicpc.net/problem/7682)|[하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)|[성냥개비](https://www.acmicpc.net/problem/3687)|[전구를 켜라](https://www.acmicpc.net/problem/2423)|
