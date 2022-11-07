@@ -4,7 +4,7 @@
 
  - 기간: 2022.08.01 ~
  - 사용 언어: Java
- - 문제 출처: [Baekjoon Online Judge](https://www.acmicpc.net/)
+ - 문제 출처: [Baekjoon Online Judge](https://www.acmicpc.net/), [SWEA](https://swexpertacademy.com/main/main.do)
 
 
 
@@ -27,7 +27,9 @@
 
  - OnlineJudge_week member
 
-   > Ex) Baekjoon_week13 willow2150
+   > Ex) Baekjoon_week15 willow2150
+   
+   > Ex) SWEA_week15 willow2150
 
 
  **Commit Message**
@@ -35,22 +37,28 @@
  - OnlineJudge_problem member - Add 1st Solution
 
    > Ex) Baekjoon_1182 willow2150 - Add 2nd Solution
+   
+   > Ex) SWEA_1182 willow2150 - Add 2nd Solution
 
-   - 문제의 n번째 솔루션 코드를 추가 했을 때의 커밋 메시지입니다.
+   - 문제의 n번째 솔루션 코드를 추가했을 때의 커밋 메시지 예시입니다.
 
 
  - OnlineJudge_problem member - Refactor 2nd Solution
    
    > Ex) Baekjoon_1182 willow2150 - Refactor 3rd Solution
+   
+   > Ex) SWEA_1182 willow2150 - Refactor 3rd Solution
 
-   - 문제의 n번째 솔루션 코드를 리팩토링 했을 때의 커밋 메시지입니다.
+   - 문제의 n번째 솔루션 코드를 리팩토링했을 때의 커밋 메시지 예시입니다.
 
 
  - OnlineJudge_problem member - Fix 3rd Solution
    
    > Ex) Baekjoon_1182 willow2150 - Fix 4th Solution
+   
+   > Ex) SWEA_1182 willow2150 - Fix 4th Solution
 
-   - 문제의 n번째 솔루션 코드의 오류를 수정 했을 때의 커밋 메시지입니다.
+   - 문제의 n번째 솔루션 코드의 오류를 수정했을 때의 커밋 메시지 예시입니다.
 
 
 
@@ -116,3 +124,4 @@ Repository
 |12|22.10.17~22.10.23|[줄세우기](https://www.acmicpc.net/problem/2631)|[우유 도시](https://www.acmicpc.net/problem/14722)|[공주님의 정원](https://www.acmicpc.net/problem/2457)|[탈옥](https://www.acmicpc.net/problem/9376)|
 |13|22.10.24~22.10.31|[틱택토](https://www.acmicpc.net/problem/7682)|[하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)|[성냥개비](https://www.acmicpc.net/problem/3687)|[전구를 켜라](https://www.acmicpc.net/problem/2423)|
 |14|22.11.01~22.11.06|[사분면](https://www.acmicpc.net/problem/1891)|[기업투자](https://www.acmicpc.net/problem/2662)|[안정적인 네트워크](https://www.acmicpc.net/problem/2406)|[보석](https://www.acmicpc.net/problem/2492)|
+|15|22.11.07~22.11.13|[파핑파핑 지뢰찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LwsHaD1MDFAXc)|[동아리실 관리하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBnFuhqxE8DFAWr)|[광고 시간 정하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXIvPBC6aqUDFAXR)|[영어 공부](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXNQOb3avD0DFAXS)|
