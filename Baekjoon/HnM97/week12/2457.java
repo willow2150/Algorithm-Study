@@ -10,9 +10,9 @@ public class Main {
 		}
 		@Override
 		public int compareTo(Flower o) {
-			if(this.s == o.s) {
-				return this.e - o.e;
-			}
+			// if(this.s == o.s) {
+			// 	return this.e - o.e;
+			// }
 			return this.s - o.s;
 		}
 	}
